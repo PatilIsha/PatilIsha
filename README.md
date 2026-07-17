@@ -22,7 +22,6 @@
 - 💼 Currently building a CMS powering **8 NGO websites & 1,000+ monthly users**
 - 🛒 Shipped a **B2B e-commerce platform end-to-end** — catalog → cart → checkout → delivery tracking
 - ⚡ Designed **70+ REST APIs** with JWT auth, RBAC & real-time inventory sync (WebSockets)
-- 🌱 Currently levelling up with **Spring Boot** & system design
 - 💬 Ask me about **MERN, Next.js, REST API design, DSA**
 - 📫 Reach me: **ishapatil298@gmail.com**
 - ⚡ Fun fact: shipped for **NGO, fintech & e-commerce** — all before year 2 as a developer
