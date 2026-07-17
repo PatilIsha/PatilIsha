@@ -4,13 +4,17 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patilisha&label=Profile%20views&color=0e75b6&style=flat" alt="patilisha" /> </p>
 
-- 🌱 I’m currently learning **Spring**
+## Hi 👋, I'm Isha Patil
+### Full Stack Developer · MERN & Next.js · E-commerce & CMS Platforms
 
-- 👨‍💻 All of my projects are available at [https://github.com/PatilIsha/PatilIsha](https://github.com/PatilIsha/PatilIsha)
-
-- 💬 Ask me about **Mern,Spring,DSA**
-
-- 📫 How to reach me **ishapatil298@gmail.com**
+- 🚀 1.5+ years shipping production apps — B2B e-commerce se lekar multi-site CMS tak
+- 💼 Currently: building a CMS powering **8 NGO websites & 1,000+ monthly users** @ Jainam Jivika Foundation
+- 🛒 Shipped a **B2B e-commerce platform end-to-end** — catalog → cart → checkout → delivery tracking
+- ⚡ **70+ REST APIs** built with JWT auth, RBAC & real-time inventory sync (WebSockets)
+- 🌱 Currently levelling up with **Spring Boot** & system design
+- 💬 Ask me about **MERN, Next.js, REST API design, DSA**
+- 📫 Reach me: **ishapatil298@gmail.com**
+- ⚡ Fun fact: NGO, fintech aur e-commerce — teeno domains me ship kar chuki hoon, wo bhi 2 saal se pehle
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
