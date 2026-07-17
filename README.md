@@ -83,8 +83,8 @@
 
 ## 💻 Coding Profiles
 <p>
-  <a href="https://www.leetcode.com/isha_543" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/ishapatil298" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://leetcode.com/u/Isha_543/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/ishapatil298" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.codechef.com/users/ishapatil298" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
@@ -92,8 +92,8 @@
 <p>
   <a href="https://linkedin.com/in/isha-patil-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ishapatil298@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <!-- Portfolio link daalo yaha 👇 -->
-  <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://porfolio-isha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://porfolio-isha.vercel.app/Isha_Patil_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 </p>
 
 ## 📊 GitHub Stats
