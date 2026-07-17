@@ -19,7 +19,7 @@
 ## 🙋‍♀️ About Me
 
 - 🚀 **1.5+ years** shipping production apps — from **B2B e-commerce** to **multi-site CMS**
-- 💼 Currently building a CMS powering **8 NGO websites & 1,000+ monthly users** at Jainam Jivika Foundation
+- 💼 Currently building a CMS powering **8 NGO websites & 1,000+ monthly users**
 - 🛒 Shipped a **B2B e-commerce platform end-to-end** — catalog → cart → checkout → delivery tracking
 - ⚡ Designed **70+ REST APIs** with JWT auth, RBAC & real-time inventory sync (WebSockets)
 - 🌱 Currently levelling up with **Spring Boot** & system design
@@ -100,8 +100,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PatilIsha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatilIsha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatilIsha&theme=tokyonight" width="95%" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatilIsha&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatilIsha&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
