@@ -8,10 +8,9 @@
 ### Full Stack Developer · MERN & Next.js · E-commerce & CMS Platforms
 
 - 🚀 1.5+ years shipping production apps — B2B e-commerce se lekar multi-site CMS tak
-- 💼 Currently: building a CMS powering **8 NGO websites & 1,000+ monthly users** @ Jainam Jivika Foundation
+- 💼 Currently: building a CMS powering **8 NGO websites & 1,000+ monthly users**
 - 🛒 Shipped a **B2B e-commerce platform end-to-end** — catalog → cart → checkout → delivery tracking
 - ⚡ **70+ REST APIs** built with JWT auth, RBAC & real-time inventory sync (WebSockets)
-- 🌱 Currently levelling up with **Spring Boot** & system design
 - 💬 Ask me about **MERN, Next.js, REST API design, DSA**
 - 📫 Reach me: **ishapatil298@gmail.com**
 - ⚡ Fun fact: NGO, fintech aur e-commerce — teeno domains me ship kar chuki hoon, wo bhi 2 saal se pehle
